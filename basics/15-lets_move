@@ -1,2 +1,2 @@
 #!/bin/bash
-mv *B* *S* /tmp/u
+mv -f Best School /tmp/u
