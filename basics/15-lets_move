@@ -1,2 +1,2 @@
 #!/bin/bash
-mv School Best /tmp/u
+mv "*.*[A-Z]*" /tmp/u
