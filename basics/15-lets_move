@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -f Best School /tmp/u
+mv tmp/*[A-Z]* /tmp/u
