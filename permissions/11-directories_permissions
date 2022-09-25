@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 0711 ditpermi
+chmod -R 0755 ditpermi
