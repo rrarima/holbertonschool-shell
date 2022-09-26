@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -empty -print |ls -la
+find . -type f -empty -print |ls -a
