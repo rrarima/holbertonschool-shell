@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -empty -print |ls -A
+find . -type f -empty -print -maxdepth 0 |ls -A
