@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 -ignore_readdir_race -name '*.gif'
+find . -ignore_readdir_race -mindepth 1 -name '*.gif'
