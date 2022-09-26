@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 -name '*.gif'
+find . -maxdepth 0 -name '*.gif'
