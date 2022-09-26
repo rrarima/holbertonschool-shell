@@ -1,2 +1,2 @@
 #!/bin/bash
-find . type d -mindepth 1 -name '*.gif'
+find . type d -mindepth 1 -name '*.gif' |cut -c 3-
