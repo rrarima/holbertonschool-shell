@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR==14' iacta >> iacta
+echo "Read more: https://en.wikipedia.org/wiki/Alea_iacta_est" >> iacta
