@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 0644 ./
+chmod -R 755 {DIR}
