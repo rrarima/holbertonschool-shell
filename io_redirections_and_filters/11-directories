@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep '^d.*\.$' | wc -l
+find . -type f -not -path "./.*" | wc -l
