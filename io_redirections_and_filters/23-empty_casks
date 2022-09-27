@@ -1,2 +1,3 @@
 #!/bin/bash
-find ./ -mindepth 1 -type f -empty
+find . -mindepth 1 -type f -empty | cut -d/ -f3-5
+
