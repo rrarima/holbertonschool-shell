@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -empty | grep -v /
+find . -type f -empty | ls -p
