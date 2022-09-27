@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d' ' -f1 elizabeth
+cut -d' ' -f1 elizabeth | cut -c -1
