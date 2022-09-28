@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type fd -empty | ls -1
+find . -empty -printf "%f\n" -name "*"
