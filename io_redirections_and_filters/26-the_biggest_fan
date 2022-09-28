@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -c | head -n 10
+find . -name \*.tsv  | head -n 11 | sort
