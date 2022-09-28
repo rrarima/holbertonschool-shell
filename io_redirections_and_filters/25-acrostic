@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(cut -d " " -f1 elizabeth | cut -c -1 | tr -d [:space:])
+echo $(cut -d " " -f1 | cut -c -1 | tr -d [:space:])
