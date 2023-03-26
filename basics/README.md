@@ -1,10 +1,4 @@
 <div class="markdown prose w-full break-words dark:prose-invert light">
-    <p>This is a beginner's guide to using the shell on a Unix-based operating system. It covers basic commands for
-        navigating the file system, manipulating files, and working with commands. The guide also covers how to read man
-        pages, keyboard shortcuts for Bash, and the LTS release cycle. The project includes a README.md file with
-        descriptions of the repository and each script, and scripts must be two lines long and executable. Students will
-        be tested on Ubuntu 20.04 LTS.</p>
-    <p>Here's a basic README.md file:</p>
     <h1>Shell Basics</h1>
     <p>This repository contains scripts for learning how to use the shell on a Unix-based operating system. The scripts
         cover basic commands for navigating the file system, manipulating files, and working with commands.</p>
